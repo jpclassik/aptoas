@@ -1,0 +1,503 @@
+@media screen and (max-width:1366px)
+{
+.header .container 
+{
+	max-width: 1280px;
+}
+}
+@media screen and (max-width:1280px)
+{
+.container
+{
+	max-width: 96% !important;
+}
+.social ul li
+{
+	margin-left: 5px;
+}
+.banner-txt img
+{
+	width: 250px;
+}
+.collection-main .owl-prev
+{
+    left: -40px;
+}
+.collection-main .owl-next
+{
+    right: -40px;
+}
+}
+@media screen and (max-width:1199px)
+{
+.banner-sec
+{
+    padding: 50px 0;
+}
+.banner-img img
+{
+    height: 500px;
+}
+.banner-text
+{
+    padding: 0;
+}
+.banner-text h1
+{
+    font-size: 50px;
+}
+.banner-text h6
+{
+    font-size: 22px;
+}
+.banner-text p
+{
+    font-size: 18px;
+}
+.banner-text ul li
+{
+    font-size: 16px;
+}
+.mint-solpup-main
+{
+    padding: 20px 15px;
+    margin-top: 20px;
+}
+.mission-sec
+{
+    padding: 50px 0;
+}
+.mission-txt h1
+{
+    font-size: 44px;
+}
+.mission-txt p
+{
+    font-size:18px;
+}
+.title h1
+{
+    font-size: 44px;
+}
+.collection-sec
+{
+	padding: 50px 0;
+}
+.collection-img img
+{
+    height: 300px;
+}
+.collection-main .owl-nav
+{
+    display:none;
+}
+.about-sec
+{
+	padding: 50px 0;
+}
+.traits-sec
+{
+    padding: 50px 0;
+}
+.traits-img img
+{
+    height: 500px;
+}
+.traits-info h1
+{
+    font-size: 44px;
+}
+.traits-info p
+{
+    font-size: 18px;
+}
+.road-map-sec
+{
+	padding: 50px 0;
+}
+.road-map-sec .title p
+{
+    font-size: 18px;
+}
+.team-sec
+{
+    padding: 50px 0;
+}
+.team-main ul li
+{
+    width: 31.33%;
+    margin: 15px 1%;
+}
+.faqs-sec
+{
+    padding: 50px 0;
+}
+}
+@media screen and (max-width:991px)
+{
+.banner-img img
+{
+    height: 500px;
+    width: auto;
+    margin: 0 auto 30px;
+    display: table;
+}
+.banner-text
+{
+    display: block;
+    height: auto;
+}
+.banner-text h1
+{
+    font-size: 44px;
+    text-align: center;
+}
+.banner-text h6
+{
+    font-size: 22px;
+    text-align: center;
+}
+.banner-text p {
+    font-size: 18px;
+    text-align: center;
+}
+.banner-text p br
+{
+    display:none;
+}
+.banner-text ul li
+{
+    font-size: 16px;
+    text-align: left;
+    float: left;
+    width: 33.33%;
+    padding: 0 12px 0 20px;
+}
+
+.mission-txt h1
+{
+    font-size: 40px;
+}
+.mission-txt p br
+{
+    display:none;
+}
+.title h1
+{
+    font-size: 40px;
+}
+.collection-img img
+{
+    height: 340px;
+}
+.order-last
+{
+    order: 0;
+}
+.traits-img img
+{
+    height: 500px;
+    width: auto;
+    margin: 0 auto 30px;
+    display: table;
+}
+.traits-info
+{
+    display: block;
+    height: auto;
+}
+.traits-info h1
+{
+    font-size: 40px;
+    text-align: center;
+}
+.traits-info p
+{
+    font-size: 18px;
+    text-align: center;
+}
+.traits-info a.wallet-btn
+{
+    float: none;
+    margin: 0 auto;
+    display: block;
+}
+.team-main ul li
+{
+    width: 48%;
+    margin: 15px 1%;
+}
+.team-img img
+{
+    height: 340px;
+}
+.faqs-main .card-header .btn-link
+{
+    font-size: 20px;
+}
+}
+@media screen and (max-width:767px)
+{
+a.wallet-btn
+{
+    margin: 0 0 0 10px;
+}
+.social ul li
+{
+    margin: 0 8px;
+}
+.collection-img img
+{
+    height: 290px;
+}
+#cd-timeline::before
+{
+    left: 30px;
+}
+.cd-timeline-img
+{
+    left:10px;
+    margin-left:0px;
+}
+.cd-timeline-block:nth-child(odd) .cd-timeline-content
+{
+    float: right;
+}
+.cd-timeline-content
+{
+    width: 88%;
+}
+.team-img img
+{
+    height: 290px;
+}
+}
+
+@media screen and (max-width:667px)
+{
+.header
+{
+    padding:15px 0;
+}
+#cd-timeline
+{
+    margin-top: 40px;
+    overflow: hidden;
+}
+.h-main {
+    float: right;
+    padding: 5px 0;
+}
+}
+
+@media screen and (max-width:480px)
+{
+    a.mint-now-btn-full{
+        margin: 10px 0px 0px 0px;
+    }
+a.logo
+{
+    width: 150px;
+    padding: 5px 0;
+}
+.social
+{
+    display: none;
+}
+a.wallet-btn
+{
+    width: 190px;
+    margin: 0;
+}
+.banner-img img
+{
+    height: auto;
+    width: auto;
+    margin: 0 auto 30px;
+    display: table;
+}
+.banner-text h1
+{
+    font-size:36px;
+}
+.banner-text h6
+{
+    font-size: 20px;
+    line-height: 28px;
+}
+.banner-text p
+{
+    font-size: 16px;
+}
+.banner-text p br
+{
+    display:none;
+}
+.banner-text ul li
+{
+    float: none;
+    width: 100%;
+    padding: 0 0 0 20px;
+}
+.min-qty-main
+{
+    width: 100%;
+}
+.mint-solpup-main h3
+{
+    font-size: 24px;
+}
+.control
+{
+    float: none;
+    margin: 20px auto 0;
+}
+a.mint-now-btn
+{
+    width: 100%;
+    margin-left: 0;
+}
+.mission-txt h1
+{
+    font-size: 32px;
+}
+.mission-txt p
+{
+    font-size: 16px;
+}
+.title h1
+{
+    font-size:32px;
+}
+.collection-img img
+{
+    height: auto;
+}
+.traits-img img
+{
+    height: auto;
+}
+.traits-info h1
+{
+    font-size: 32px;
+}
+.traits-info p
+{
+    font-size: 16px;
+}
+.road-map-sec .title p
+{
+    font-size: 16px;
+}
+#cd-timeline
+{
+    margin-top: 40px;
+}
+#cd-timeline::before
+{
+    left: 25px;
+}
+.cd-timeline-img
+{
+    width: 34px;
+    height: 34px;
+}
+.cd-timeline-content
+{
+    width: 80%;
+    padding: 15px;
+}
+.team-main ul li
+{
+    width: 100%;
+    margin: 15px 0;
+}
+.team-img img
+{
+    height: auto;
+}
+.faqs-main .card-header .btn-link
+{
+    font-size: 18px;
+    letter-spacing: 0;
+    padding-right: 55px;
+}
+.faqs-main .card .card-body p
+{
+    font-size: 16px;
+    line-height: 24px;
+}
+}
+
+@media screen and (max-width:380px)
+{
+a.logo
+{
+    width: 140px;
+    padding:6px 0;
+}
+a.wallet-btn
+{
+    width: 170px;
+    margin: 0;
+    font-size: 12px;
+}
+.banner-text h1
+{
+    font-size: 32px;
+}
+.banner-text h6
+{
+    font-size: 18px;
+    line-height: 28px;
+}
+.mission-txt h1
+{
+    font-size: 28px;
+}
+.title h1
+{
+    font-size: 28px;
+}
+.traits-info h1
+{
+    font-size: 28px;
+}
+.traits-info a.wallet-btn
+{
+    float: none;
+    margin: 0 auto;
+    display: block;
+    width: 200px;
+    font-size: 14px;
+}
+.cd-timeline-content h2
+{
+    font-size: 22px;
+}
+#cd-timeline::before
+{
+    left: 20px;
+}
+.cd-timeline-img
+{
+    left: 6px;
+    margin-left: 0px;
+}
+}
+
+@media screen and (max-width:340px)
+{
+.container {
+    max-width: 100% !important;
+}
+a.wallet-btn {
+    width: 160px;
+    font-size: 12px;
+    padding: 10px 0;
+}
+a.logo {
+    width: 111px;
+    padding: 8px 0;
+}
+}
